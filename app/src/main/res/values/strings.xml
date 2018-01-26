@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question1">Camberra is the capital of Australia</string>
+    <string name="question2">this is question 2</string>
+    <string name="question3">this is question 3</string>
+    <string name="question4">this is question 4</string>
+    <string name="question5">this is question 5</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+
+</resources>
